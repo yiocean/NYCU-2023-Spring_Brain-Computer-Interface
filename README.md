@@ -6,6 +6,7 @@ Reference: https://eeglab.org
 
 ## HW 3
 Deep Learning for BCI 
+</br>
 Goal：Ｕtilize Convolutional Neural Network (CNN) for motor imagery EEG
 classification tasks, with experiments on 4 training schemes and 3 model architectures.
 
