@@ -1,4 +1,5 @@
-# NYCU_2023_Spring-Brain_Computer_Interface
+# Brain Computer Interface
+【 NYCU 2023 Spring Semester 】
 ## HW 2
 EEG analysis by using Matlab and EEGLab.
 
